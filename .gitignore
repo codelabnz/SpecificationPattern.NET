@@ -1,0 +1,6 @@
+.vs/
+packages/
+SpecificationPatternExample/bin/
+SpecificationPatternExample/obj/
+SpecificationPatternExample.UnitTests/bin/
+SpecificationPatternExample.UnitTests/obj/
